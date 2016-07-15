@@ -24,7 +24,11 @@ Get started with this helpful [guide](https://docs.google.com/document/d/1xyjtEV
 For this stage, you should share a zip of your project files saved as <code>movie_website.zip</code>. Your zip should include three Python files: <code>media.py</code>, <code>entertainment_center.py</code>, and <code>fresh_tomatoes.py</code>. 
 Use the following rubric to evaluate your work:
 
+### Suggestions to Make Your Project Stand Out!
+Add additional information about your favorite movies (screenwriters, release date, etc.) and modify fresh_tomatoes.py to display it on your web page
+
+
 ### Rubric
 
-![Rubric - Functionality](http://i.imgur.com/jlcpmz6.png)
-![Rubric - Code Review](http://i.imgur.com/28AilYv.png)
+![Rubric - Functionality](jlcpmz6.png)
+![Rubric - Code Review](28AilYv.png)
