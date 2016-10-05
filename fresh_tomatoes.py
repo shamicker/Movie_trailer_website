@@ -255,7 +255,7 @@ def create_video_tiles_content(movie_and_tv_list):
 
 def open_videos_page(movies, tv_shows):
     # Create or overwrite the output file
-    output_file = open('fresh_tomatoes.html', 'w')
+    output_file = open('index.html', 'w')
 
     # Replace the placeholder for the movie tiles with the actual dynamically generated content
     rendered_content = main_page_content.format(

@@ -14,7 +14,7 @@ MPAA rating if a movie, or number of episodes/seasons if a tv show
 lola = media.Movie(
     "Run Lola Run",
     "Lola tries to beat the clock to help her boyfriend, while chance and choices affect the outcome.",
-    "http://thetexastheatre.com/wp-content/uploads/2011/11/Run-Lola-Run-1999-movie-poster.jpg",
+    "https://i.jeded.com/i/run-lola-run-lola-rennt.13148.jpg",
     "https://youtu.be/3ea0mG4ahRk",
     "action",
     "R"
