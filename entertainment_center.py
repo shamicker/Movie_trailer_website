@@ -78,7 +78,7 @@ time_bandits = media.Movie(
     "Time Bandits",
     "A boy falls in with a gang of time-travelling thieves; a giddy fairy tale, a revisionist history lesson, and a satire of technology gone awry.",
     "https://www.trailers.tube/wp-content/uploads/2016/03/time-bandits-movie-poster-480x720.jpg",
-    "https://www.youtube.com/watch?v=NNO9apbGvzo",
+    "https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiM4KuThdTQAhVE4YMKHUHoDbQQyCkIHTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJwnjENpIyq0&usg=AFQjCNE38amQVJjgn9tDD4jup_xqwT8crg&bvm=bv.139782543,d.amc",
     "dark comedy",
     "PG"
     )
