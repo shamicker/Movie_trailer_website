@@ -13,6 +13,7 @@ main_page_head = '''
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/35542eb49d.js"></script>
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
@@ -27,6 +28,19 @@ main_page_head = '''
             top: -12px;
             right: -12px;
             z-index: 9001;
+            color: ghostwhite;
+            width: 24px;
+            height: 24px;
+        }
+        .fa {
+            font: normal normal normal 24px/1 FontAwesome;
+            font-size: none;
+            width: 100%;
+            height: 100%;
+        }
+        .hanging-close:hover,
+        .fa:hover {
+            color: ghostwhite;
         }
         #trailer-video {
             width: 100%;
@@ -157,7 +171,7 @@ main_page_content = '''
             <div class="modal-dialog">
                 <div class="modal-content">
                     <a href="#" class="hanging-close" data-dismiss="modal" aria-hidden="true">
-                        <img src="https://lh5.ggpht.com/v4-628SilF0HtHuHdu5EzxD7WRqOrrTIDi_MhEG6_qkNtUK5Wg7KPkofp_VJoF7RS2LhxwEFCO1ICHZlc-o_=s0#w=24&h=24"/>
+                        <i class="fa fa-times-circle" aria-hidden="true"></i>
                     </a>
                     <div class="scale-media" id="trailer-video-container">
                     </div>

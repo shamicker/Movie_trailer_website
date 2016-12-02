@@ -11,6 +11,8 @@ Genre(s),
 MPAA rating if a movie, or number of episodes/seasons if a tv show
 '''
 
+# TODO: optimize images
+
 lola = media.Movie(
     "Run Lola Run",
     "Lola tries to beat the clock to help her boyfriend, while chance and choices affect the outcome.",
