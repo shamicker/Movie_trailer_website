@@ -105,5 +105,5 @@ movies_list = [time_bandits, lola, galaxy_quest, lego_movie, true_romance, alien
 tv_list = [flight_conchords, firefly]
 
 # Use movies_list and tv_list to generate an HTML file and open it in
-# a new browser tab.
+# a new browser tab
 fresh_tomatoes.open_videos_page(movies_list, tv_list)
